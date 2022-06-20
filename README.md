@@ -1,2 +1,1 @@
-# small-game
-A small game I'm making.
+# (WIP) Some sort of game
